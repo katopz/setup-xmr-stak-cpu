@@ -1,5 +1,5 @@
 # setup-xmr-stak-cpu
-setup script for xmr-stak-cpu
+setup script for xmr-stak-cpu via Ubuntu
 
 # Setup
 > Use your droplet IP here
